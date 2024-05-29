@@ -17,6 +17,3 @@ This repository contains the code for a multi-model / multi-modal demo, built us
 - **Contextual awareness**: The chatbot remembers previous conversations and uses them to provide more relevant responses.
 - **SQL generation**: Generate SQL queries based on natural language prompts.
 - **Search**: Search for documents and generate summaries based on a prompt.
-
-## License
-This project is licensed under the Apache License, Version 2.0. See the `LICENSE` file for more information.
