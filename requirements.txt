@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+vertexai
+google-cloud-discoveryengine
