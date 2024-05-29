@@ -1,0 +1,24 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore local configuration files
+.env
+
+# Ignore temporary files
+*.tmp
+
+# Ignore logs
+*.log
+
+# Ignore data files
+data/
+
+# Ignore notebooks
+*.ipynb
+
+# Ignore specific files
+app.py
